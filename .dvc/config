@@ -1,0 +1,4 @@
+[core]
+    remote = padmaja_wine_data
+['remote "padmaja_wine_data"']
+    url = s3://padmaja-ml-ops-wine-dataset
